@@ -41,8 +41,6 @@ const albumsList=[
   {name:'Absolution',sline:'Muse',src:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5st1E6MpreAbVWSS9d4kHFekEbg5HHXnGUqKDhgPqKSg6bqZ1'},
   {name:'Youngblood',sline:'5SOS',src:'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/b4/e2/08/b4e20858-295d-ecef-c9ba-30789773beb3/00602567483625.rgb.jpg/268x0w.jpg'},
   {name:'Made In The A.M.',sline:'One Direction',src:'https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/One_Direction_-_Made_in_the_AM_%28Official_Album_Cover%29.png/220px-One_Direction_-_Made_in_the_AM_%28Official_Album_Cover%29.png'},
-
-
 ];
 const styles = StyleSheet.create({
   scrollView: {
